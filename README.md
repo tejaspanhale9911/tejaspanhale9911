@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on data science, machine learning, and Power BI projects<br><br>I’m looking to collaborate on data-driven projects, analytics, and applied machine learning<br><br>I’m looking for help with advanced Power BI, DAX, and improving deployment of ML projects<br><br>I’m currently learning Power BI, Tableau, SQL, and advanced machine learning techniques<br><br>Ask me about Python, pandas, data visualization, exploratory data analysis, and ML workflows<br><br>Fun fact I enjoy turning raw data into actionable insights through practical projects
+I’m currently working on data science, machine learning, and Power BI projects<br><br>I’m looking to collaborate on data-driven projects, analytics, and applied machine learning<br><br>I’m looking for help with advanced Power BI, DAX, and improving deployment of ML projects<br><br>I’m currently learning Power BI, Tableau, SQL, and advanced machine learning techniques<br><br>Ask me about Python, pandas, data visualization, exploratory data analysis, and ML workflows<br><br>Fun fact: I enjoy turning raw data into actionable insights through practical projects
 
 
 ## 🌐 Socials:

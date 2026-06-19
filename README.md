@@ -1,5 +1,21 @@
 # 💫 About Me:
-I’m currently working on data science, machine learning, and Power BI projects<br><br>I’m looking to collaborate on data-driven projects, analytics, and applied machine learning<br><br>I’m looking for help with advanced Power BI, DAX, and improving deployment of ML projects<br><br>I’m currently learning Power BI, Tableau, SQL, and advanced machine learning techniques<br><br>Ask me about Python, pandas, data visualization, exploratory data analysis, and ML workflows<br><br>Fun fact: I love turning raw data into actionable insights through practical projects
+From banking operations to building ML models -
+10 years across global financial institutions, now completing an MSc in Data Science.
+
+I build end-to-end projects in credit risk, fraud detection and deepfake detection
+bringing real-world domain knowledge from JPMorgan, Deutsche Bank and HDFC Bank
+into every dataset I touch.
+
+---
+
+🎓 MSc Data Science @ Nottingham Trent University, United Kingdom (2026)  
+💼 JPMorgan Chase • Deutsche Bank • HDFC Bank • Wipro  
+🔭 Building: Credit Risk Scorecard | Deepfake Detection | Fraud Analytics Pipeline  
+🌱 Learning: Advanced ML • Power BI DAX • MLOps & Model Deployment  
+🤝 Open to collaborate on: Data-driven projects & Applied ML  
+📍 Nottingham, UK | Open to UK & UAE roles  
+💬 Ask me about: Python • pandas • EDA • ML workflows • Data Visualisation  
+⚡ Fun fact: I turn 10 years of banking domain expertise into better ML features
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-panhale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaspanhale9911@gmail.com) 

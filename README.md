@@ -36,6 +36,6 @@ into every dataset I touch.
 [![Terraform Associate Certified](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/fde32e10-68ea-4440-8bbb-6943d837c29e/public_url)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+> "In God we trust. All others must bring data."
+>
+> — W. Edwards Deming

@@ -28,12 +28,13 @@ into every dataset I touch.
 ![SHAP](https://img.shields.io/badge/SHAP-blue?style=for-the-badge)
 
 ## 🏅 Certifications:
+[![Azure Security, Compliance, and Identity Fundamentals Certified](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/04c91f9d-31ea-41ff-9adc-4a8c24af5940/public_url)
 [![Azure Fundamentals Certified](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/980b6fc2-db25-4a31-b918-f62bca744889/public_url)
 [![Azure AI Fundamentals Certified](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/7278d74f-4177-49cb-a61d-3cfb43399e24/public_url)
 [![Azure Data Fundamentals Certified](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/435ec1f0-e63d-4832-aa3d-37990607b784/public_url)
 [![Cloud Practitioner - Training Badge](https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/02247aa3-490a-435c-90c5-996385495d47/public_url)
 [![Terraform Associate Certified](https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/e25f8e84-3bbb-4cb8-948c-04ca2e412e79/public_url)
-[![Terraform Associate Certified](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/fde32e10-68ea-4440-8bbb-6943d837c29e/public_url)
+[![AWS Cloud Practitioner Certified](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/fde32e10-68ea-4440-8bbb-6943d837c29e/public_url)
 
 
 > "In God we trust. All others must bring data."

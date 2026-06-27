@@ -1,21 +1,31 @@
 # 💫 About Me:
-From banking operations to building ML models -
-10 years across global financial institutions, now completing an MSc in Data Science.
-
-I build end-to-end projects in credit risk, fraud detection and deepfake detection
-bringing real-world domain knowledge from JPMorgan, Deutsche Bank and HDFC Bank
-into every dataset I touch.
+From banking operations to building ML models and cloud-native systems -
+11 years across global financial institutions, now completing an MSc in Data Science
+and building toward Site Reliability Engineering (SRE).
+I build end-to-end projects in credit risk, fraud detection, and deepfake detection,
+deploying them with Docker, Kubernetes, Prometheus, and Grafana -
+bringing real-world domain knowledge from JPMorgan, Deutsche Bank, and HDFC Bank
+into every dataset and every pipeline I touch.
 
 ---
 
-🎓 MSc Data Science @ Nottingham Trent University, United Kingdom (2026)  
-💼 JPMorgan Chase • Deutsche Bank • HDFC Bank • Wipro  
-🔭 Building: Credit Risk Scorecard | Deepfake Detection | Fraud Analytics Pipeline  
-🌱 Learning: Advanced ML • Power BI DAX • MLOps & Model Deployment  
-🤝 Open to collaborate on: Data-driven projects & Applied ML  
-📍 Nottingham, UK | Open to UK & UAE roles  
-💬 Ask me about: Python • pandas • EDA • ML workflows • Data Visualisation  
-⚡ Fun fact: I turn 10 years of banking domain expertise into better ML features
+🎓 MSc Data Science @ Nottingham Trent University, United Kingdom (2026)
+
+💼 JPMorgan Chase • Deutsche Bank • HDFC Bank • Wipro
+
+🔭 Building: Credit Risk Scorecard | Deepfake Detection | Fraud Analytics Pipeline
+
+🌱 Learning: Kubernetes (CKA) • Terraform • Prometheus • Grafana • ArgoCD • MLOps & Model Deployment
+
+🎯 Targeting: Application Support, SRE, Cloud, and Data Science roles in the UAE/GCC
+
+🤝 Open to collaborate on: Data-driven projects & Applied ML
+
+📍 Nottingham, UK | Open to UK & UAE roles
+
+💬 Ask me about: Python • pandas • SQL • EDA • ML workflows • Kubernetes • Data Visualisation
+
+⚡ Fun fact: I turn 11 years of banking domain expertise into better ML features and more reliable systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-panhale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaspanhale9911@gmail.com) 

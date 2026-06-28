@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 From banking operations to building ML models and cloud-native systems -
 11 years across global financial institutions, now completing an MSc in Data Science
 and building toward Site Reliability Engineering (SRE).
@@ -9,23 +10,16 @@ into every dataset and every pipeline I touch.
 
 ---
 
-🎓 MSc Data Science @ Nottingham Trent University, United Kingdom (2026)
-
-💼 JPMorgan Chase • Deutsche Bank • HDFC Bank • Wipro
-
-🔭 Building: Credit Risk Scorecard | Deepfake Detection | Fraud Analytics Pipeline
-
-🌱 Learning: Kubernetes (CKA) • Terraform • Prometheus • Grafana • ArgoCD • MLOps & Model Deployment
-
-🎯 Targeting: Application Support, SRE, Cloud, and Data Science roles in the UAE/GCC
-
-🤝 Open to collaborate on: Data-driven projects & Applied ML
-
-📍 Nottingham, UK | Open to UK & UAE roles
-
-💬 Ask me about: Python • pandas • SQL • EDA • ML workflows • Kubernetes • Data Visualisation
-
-⚡ Fun fact: I turn 11 years of banking domain expertise into better ML features and more reliable systems
+🎓 MSc Data Science @ Nottingham Trent University, United Kingdom (2026) <br>
+💼 JPMorgan Chase • HDFC Bank • Deutsche Bank • Wipro <br>
+🔭 Building: Deepfake Detection (MSc Dissertation) | Fraud Analytics Pipeline <br>
+🌱 Learning: Kubernetes (CKA) • Terraform • Prometheus • Grafana • ArgoCD <br>
+📜 Certified: AWS CCP • Azure (AZ-900, AI-900, DP-900, SC-900) • Terraform Associate <br>
+🎯 Targeting: Application Support, SRE, Cloud, and Data Science roles in the UAE/GCC <br>
+🤝 Open to collaborate on: Data-driven projects & Applied ML <br>
+📍 Nottingham, UK | Open to UAE/GCC roles <br>
+💬 Ask me about: Python • pandas • SQL • EDA • ML workflows • Kubernetes • Data Visualisation <br>
+⚡ Fun fact: I've debugged production banking systems at 2 AM more times than I can count — now I'd rather build the monitoring that prevents the call.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-panhale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaspanhale9911@gmail.com) 

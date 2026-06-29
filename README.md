@@ -12,10 +12,10 @@ into every dataset and every pipeline I touch.
 
 🎓 MSc Data Science @ Nottingham Trent University, United Kingdom (2026) <br>
 💼 JPMorgan Chase • HDFC Bank • Deutsche Bank • Wipro <br>
-🔭 Building: Deepfake Detection (MSc Dissertation) | Fraud Analytics Pipeline <br>
-🌱 Learning: Kubernetes (CKA) • Terraform • Prometheus • Grafana • ArgoCD <br>
+🔭 Building: Deepfake Detection (MSc Dissertation Project) | Fraud Analytics Pipeline <br>
+🌱 Learning: Kubernetes (CKA) • Terraform • Prometheus • Grafana • Github <br>
 📜 Certified: AWS CCP • Azure (AZ-900, AI-900, DP-900, SC-900) • Terraform Associate <br>
-🎯 Targeting: Application Support, SRE, Cloud, and Data Science roles in the UAE/GCC <br>
+🎯 Targeting: Application Support, SRE, Cloud and Data Science roles in the UAE/GCC <br>
 🤝 Open to collaborate on: Data-driven projects & Applied ML <br>
 📍 Nottingham, UK | Open to UAE/GCC roles <br>
 💬 Ask me about: Python • pandas • SQL • EDA • ML workflows • Kubernetes • Data Visualisation <br>

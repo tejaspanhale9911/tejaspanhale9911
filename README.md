@@ -19,7 +19,7 @@ into every dataset and every pipeline I touch.
 🤝 Open to collaborate on: Data-driven projects & Applied ML <br>
 📍 Nottingham, UK | Open to UAE/GCC roles <br>
 💬 Ask me about: Python • pandas • SQL • EDA • ML workflows • Kubernetes • Data Visualisation <br>
-⚡ Fun fact: I've debugged production banking systems at 2 AM more times than I can count — now I'd rather build the monitoring that prevents the call.
+⚡ Fun fact: I've debugged production banking systems at 2 AM more times than I can count - now I'd rather build the monitoring that prevents the call.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-panhale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaspanhale9911@gmail.com) 

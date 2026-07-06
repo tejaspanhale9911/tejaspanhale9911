@@ -5,7 +5,7 @@ From banking operations to building ML models and cloud-native systems -
 and building toward Site Reliability Engineering (SRE).
 I build end-to-end projects in credit risk, fraud detection, and deepfake detection,
 deploying them with Docker, Kubernetes, Prometheus, and Grafana -
-bringing real-world domain knowledge from JPMorgan, Deutsche Bank, and HDFC Bank
+bringing real-world domain knowledge from JPMorgan, Deutsche Bank and HDFC Bank
 into every dataset and every pipeline I touch.
 
 ---

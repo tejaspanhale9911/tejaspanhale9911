@@ -1,3 +1,16 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Tejas%20Panhale&fontSize=50&animation=twinkling&fontAlignY=35&desc=SRE%20%7C%20Cloud%20%26%20DevOps%20%7C%20Data%20Science%20%7C%20Ex-Banking%20Application%20Support&descAlignY=55&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Site+Reliability+Engineering+%7C+Cloud+Infrastructure;Kubernetes+%2B+Terraform+%2B+AWS+%2B+Azure;11%2B+Years+in+Banking+Application+Support;MSc+Data+Science+%40+Nottingham+Trent+University)](https://git.io/typing-svg)
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SRE%20%2F%20Cloud%20Engineering-7dd3fc?style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tejaspanhale9911&color=7dd3fc&style=flat-square)
+![Followers](https://img.shields.io/github/followers/tejaspanhale9911?label=Followers&style=flat-square&color=7dd3fc)
+
+</div>
+
 # 💫 About Me:
 
 From banking operations to building ML models and cloud-native systems -

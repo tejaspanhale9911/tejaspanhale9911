@@ -42,4 +42,4 @@ into every dataset and every pipeline I touch.
 
 > "In God we trust. All others must bring data."
 >
-> — W. Edwards Deming
+> - W. Edwards Deming

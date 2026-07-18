@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-From banking operations to building ML models and cloud-native systems -
+From banking operations to building ML models and cloud-native systems-
 11+ years across global financial institutions, now completing an MSc in Data Science
 and building toward Site Reliability Engineering (SRE).
 I build end-to-end projects in credit risk, fraud detection, and deepfake detection,
